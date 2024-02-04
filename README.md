@@ -1,2 +1,9 @@
 # Berkeley-Profession-Certificate-in-ML---Assignment-2
-The second practical assignment of the PC-AI-ML certificate program.
+## What drives the price of a car?
+
+### Deployment
+## Problem Statement
+## Modeling Process
+## Findings
+## Business Recommendation(s)
+## Next Steps
